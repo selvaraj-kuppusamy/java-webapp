@@ -1,2 +1,3 @@
-# java-webapp
-simple java webapp
+# maven-project
+
+Simple Maven Project
